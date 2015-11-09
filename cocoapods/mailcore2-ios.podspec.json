@@ -1,5 +1,5 @@
 {
-  "name": "mailcore2-ios",
+  "name": "mailcore",
   "version": "0.5.1",
   "summary": "Mailcore 2 for iOS",
   "description": "MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP.",
